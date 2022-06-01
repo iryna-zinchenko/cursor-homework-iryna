@@ -1,0 +1,10 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin-left: 300px;
+    margin-right: 400px;
+    line-height: 150%
+}
+
+.image {
+    height: 150;
+}
